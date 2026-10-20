@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.0"
+  version: "0.2.0"
 
 package:
   name: doiggie-dataverse
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/doiggie-dataverse/doiggie_dataverse-${{ version }}.tar.gz
-  sha256: d1673562252ff1ce8914e59779f108469c4fd8a5cf5cd9d3b931f6993ea017e6
+  sha256: 4640752630c8d6e28f7b905336b1349e6a033f89ce75dad3ffd650d21d32f15f
 
 build:
   number: 0
